@@ -33,7 +33,7 @@
 | Project | Description |
 |--------|-------------|
 | 🔹 Two-Tier Flask App with CI/CD | Automated build, test and deployment using Jenkins, Docker & AWS |
-| 🔹 Terraform AWS Infra Automation | Provisioned VPC, Subnets, EC2, Security Groups, load balancing |
+
 
 > More projects being added soon 🚀
 
