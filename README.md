@@ -21,7 +21,7 @@
 | **Containers & Orchestration** | Docker, Kubernetes |
 | **CI/CD** | Jenkins, GitHub Actions |
 | **Infrastructure as Code** | Terraform, Ansible |
-| **Programming** | Python, Java, Bash |
+| **Programming** | Python, Bash |
 | **Monitoring** | Grafana, Prometheus |
 | **Version Control** | Git, GitHub |
 | **Operating Systems** | Linux (Ubuntu/RHEL), Windows |
@@ -54,5 +54,5 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
 </a>
 
-<a href="mailto:lokesh.rapaka.ext@nokia.com">
+<a href="mailto:lokeshrapaka123@gmail.com">
 <img src="https://img.shields.io/badge/Email-white?logo=gmail&style=for-th
